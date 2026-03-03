@@ -13,7 +13,7 @@ Use [whisperAI](https://github.com/openai/whisper) to create subtitles from a vi
 
 ## 3 - RAG: Retrieval-Augmented Generation (hard)
 
-Build a Retrieval-Augmented Generation pipeline. Try to develop it with your own chatgpt or (use this for inspiration)[https://github.com/guimarais/smallest_rag].
+Build a Retrieval-Augmented Generation pipeline. Try to develop it with your own chatgpt or [use this for inspiration](https://github.com/guimarais/smallest_rag).
 
 ---
 ## Addition resources
